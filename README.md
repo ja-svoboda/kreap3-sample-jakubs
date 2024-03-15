@@ -4,3 +4,4 @@
 
 ### mikulicah version
 Ahoj, tady Honza. 
+Všechny zdravím!
