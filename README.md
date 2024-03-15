@@ -9,4 +9,5 @@ Všechny zdravím!
 git clone https://github.com/ja-svoboda/kreap3-sample-jakubs
 cd kreap3-sample-jakubs
 pip3 install request
-python main.py
+python start.py
+```
